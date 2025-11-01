@@ -1,0 +1,5 @@
+OrderId,CustomerId,AccountId,OrderDate,Amount,Region
+O-1001,C-001,A-01,2025-07-01,120.5,West
+O-1002,C-002,A-02,2025-07-03,85.0,West
+O-1003,C-003,A-03,2025-07-05,460.99,East
+O-1004,C-001,A-01,2025-07-06,230.0,West

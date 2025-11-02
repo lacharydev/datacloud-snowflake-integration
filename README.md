@@ -27,7 +27,7 @@ Snowflake (raw → cleaned) → Python export (CSV/API) → Salesforce Data Clou
 | `scripts/export_to_datacloud.py` | Python script that shapes data for Data Cloud ingestion |
 | `images/architecture_diagram.png` | Architecture diagram |
 | `docs/demo_story.md` | Full business story and enablement context |
-
+| `scripts/redshift_data_load.sql` | SQL to create and load Redshift demo table for Data Cloud integration |
 ---
 
 ### 🧪 How to Reproduce
